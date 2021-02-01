@@ -1,4 +1,4 @@
-# SE_comment_bot
+#comment_bot
 As of now it only posts comments on twitch.tv, promoting the game Sectors Edge.
 
 Currently only connected to 5 twitch accounts for testing it out. 
